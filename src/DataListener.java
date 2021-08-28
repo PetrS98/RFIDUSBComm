@@ -20,6 +20,7 @@ public class DataListener implements SerialPortDataListener {
     public void serialEvent(SerialPortEvent event)
     {
         System.out.println("???");
+        // gsdgfWSEfgwSEfwsef
         try
         {
             Thread.sleep(10);
